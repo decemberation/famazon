@@ -5,6 +5,10 @@ How to run?
 
 Step 1: git clone 
 
-Step 2: npm install
+In the project directory, you can run:
 
-Step 3: npm run start
+### `npm install`
+
+then
+
+### `npm run start`
