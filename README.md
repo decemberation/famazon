@@ -1,14 +1,18 @@
 # famazon
 A smart contract &amp; Web3 Blockchain Application
 
-How to run?
+> Dependencies
+
+1) Ganache: https://trufflesuite.com/ganache/
+
+2) truffle: `npm install -g truffle@5.0.5`
+
+3) MetaMask: https://metamask.io/
+
+> How to run?
 
 Step 1: `git clone https://github.com/decemberation/famazon.git`
 
-In the project directory, you can run:
+Step 2: In the project directory, run: `npm install`
 
-### `npm install`
-
-then
-
-### `npm run start`
+Step 3: `npm run start`
